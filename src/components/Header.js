@@ -7,7 +7,7 @@ const Header = (props) => {
     <>
       <header>
         <div className="navbar">
-          <Link to="/foldkart" className='navbarLogo' title="Home Page">
+          <Link exact to="/foldkart" className='navbarLogo' title="Home Page">
             <img src={logo} alt="logo" />
           </Link>
           {/* <img src={logo} alt="logo" /> */}
