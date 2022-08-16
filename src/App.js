@@ -41,7 +41,7 @@ function App() {
         {/* <Product res={res} addtocart={addtocart}/>
         <Checkout cartItem={cartItem} removefromcart={removefromcart}/> */}
         <Routes>
-          <Route path="/foldkart/" element={<Product res={res} addtocart={addtocart}/>}/>
+          <Route path="/foldkart" element={<Product res={res} addtocart={addtocart}/>}/>
           <Route path="/checkout" element={<Checkout cartItem={cartItem} removefromcart={removefromcart}/>}/>
         </Routes>
       </BrowserRouter>
