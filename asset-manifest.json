@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foldkart/static/css/main.968bcb17.css",
+    "main.js": "/foldkart/static/js/main.92c6062e.js",
+    "index.html": "/foldkart/index.html",
+    "main.968bcb17.css.map": "/foldkart/static/css/main.968bcb17.css.map",
+    "main.92c6062e.js.map": "/foldkart/static/js/main.92c6062e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968bcb17.css",
+    "static/js/main.92c6062e.js"
+  ]
+}
